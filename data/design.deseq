@@ -1,0 +1,12 @@
+	condition	cond_rep
+carp1	acute	acute_1
+carp2	acute	acute_2
+carp3	acute	acute_3
+carp4	persistent	persistent_1
+carp5	persistent	persistent_2
+carp6	persistent	persistent_3
+carp7	reactivation	reactivation_1
+carp8	reactivation	reactivation_2
+carp9	reactivation	reactivation_3
+carp11	mock	mock_1
+carp12	mock	mock_2
